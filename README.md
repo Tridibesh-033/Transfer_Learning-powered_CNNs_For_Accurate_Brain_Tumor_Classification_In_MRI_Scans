@@ -1,9 +1,6 @@
 # Transfer_Learning-powered_CNNs_For_Accurate_Brain_Tumor_Classification_In_MRI_Scans
 Brain cancer is among the deadliest due to its rapid growth and spread. Differentiating aggressive from less aggressive forms remains challenging. Deep learning, especially Convolutional Neural Networks (CNNs), has shown promise in automating tumor detection from MRI scans. This study proposes a CNN-based model for classifying brain tumors into glioma, meningioma, pituitary tumor, and no tumor. Using data augmentation, transfer learning, and fine-tuning, the model achieved >97% accuracy, outperforming traditional methods. Its strong transfer learning capabilities suggest real-world applicability, making CNN a valuable tool for improving brain cancer diagnosis and treatment.
-### Research Team for This Project-
-#### Jeet Majumder, Suman Ghosh, Pratik Das ,Souvik Jash, Ritesh Gorai
-
-![image](https://github.com/user-attachments/assets/47a5f3ca-d74d-45b0-83b1-fc6a072808dd)
+### Research Team for This Project- Jeet Majumder, Suman Ghosh, Pratik Das, Souvik Jash, Ritesh Gorai
 ![image](https://github.com/user-attachments/assets/38621a6f-89cc-4033-8da2-17c409a048c3)
 ![image](https://github.com/user-attachments/assets/4300b059-1317-418f-8eee-6317fb2908be)
 ![image](https://github.com/user-attachments/assets/ab0a4b7b-b688-49b8-a1c9-2ae0e1b9587e)
@@ -11,10 +8,4 @@ Brain cancer is among the deadliest due to its rapid growth and spread. Differen
 ![image](https://github.com/user-attachments/assets/75db6b39-4e9f-490d-bf49-54955f58bd00)
 ![image](https://github.com/user-attachments/assets/75b5b6e7-63e7-4532-8acf-2ecf12e7bbb0)
 ![image](https://github.com/user-attachments/assets/66d66dde-f881-4310-8b2d-666922f20f59)
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/3bf55131-cbd4-41b7-aebb-e1aff558c4ea)
